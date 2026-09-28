@@ -61,7 +61,7 @@ No API key or installation is required.
 
 ## Author
 
-Yamuna Ponraj
-GitHub: https://github.com/YamunaPonraj
-Linkedin: https://www.linkedin.com/in/yamuna-ponraj/
-Email: yamunaponraj91@gmail.com
+-- Yamuna Ponraj
+-- GitHub: https://github.com/YamunaPonraj
+-- Linkedin: https://www.linkedin.com/in/yamuna-ponraj/
+-- Email: yamunaponraj91@gmail.com
