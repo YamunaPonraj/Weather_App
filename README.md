@@ -1,4 +1,4 @@
-# Weather App 🌤️
+<img width="1839" height="888" alt="image" src="https://github.com/user-attachments/assets/cd73010d-7785-4de6-83a0-d6bd457ad536" /># Weather App 🌤️
 
 A simple weather app built with HTML, CSS and JavaScript that lets you search any city and see live temperature, humidity and wind speed.
 
@@ -58,6 +58,10 @@ No API key or installation is required.
 - Weather icons based on conditions
 - °C / °F toggle
 - Save last searched city using localStorage
+
+## Screenshots
+
+<img width="1839" height="888" alt="image" src="https://github.com/user-attachments/assets/738b51b7-1fe6-4c44-a7c0-1c349a04bb75" />
 
 ## Author
 
