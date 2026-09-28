@@ -59,7 +59,7 @@ No API key or installation is required.
 - °C / °F toggle
 - Save last searched city using localStorage
 
-## Screenshots
+## Screenshot
 
 <img width="1839" height="888" alt="image" src="https://github.com/user-attachments/assets/738b51b7-1fe6-4c44-a7c0-1c349a04bb75" />
 
@@ -69,3 +69,7 @@ Yamuna Ponraj   <br>
 GitHub: https://github.com/YamunaPonraj  <br> 
 Linkedin: https://www.linkedin.com/in/yamuna-ponraj/    <br>
 Email: yamunaponraj91@gmail.com
+
+
+
+
