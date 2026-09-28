@@ -59,6 +59,10 @@ No API key or installation is required.
 - °C / °F toggle
 - Save last searched city using localStorage
 
+## Screenshots
+
+<img width="1839" height="888" alt="image" src="https://github.com/user-attachments/assets/738b51b7-1fe6-4c44-a7c0-1c349a04bb75" />
+
 ## Author
 
 Yamuna Ponraj   <br>
